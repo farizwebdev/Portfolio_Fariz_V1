@@ -3,7 +3,7 @@
 Proyek ini adalah website portofolio pribadi yang responsif dan memperdalam skill dasar ajaa hehe, dibangun dari nol menggunakan **HTML, CSS, dan JavaScript**. Website ini dibuat untuk menampilkan profil saya sebagai mahasiswa Informatika UIN Sunan Kalijaga yang berfokus pada **Data Analyst** dan **UI/UX Design**, serta untuk melihat sertifikat dan proyek yang telah saya kerjakan.
 
 ## Demo
-Anda dapat melihat tampilan website ini dengan mengunjungi tautan demo di sini: https://portofoliofarizhusainalbar.netlify.app/
+Kamu dapat melihat tampilan website ini dengan mengunjungi tautan demo di sini: https://portofoliofarizhusainalbar.netlify.app/
 
 ## Teknologi yang Digunakan
 Proyek ini dibangun menggunakan teknologi web dasar tanpa framework CSS/JS yang berat, untuk memperdalam pemahaman mengenai struktur website:
